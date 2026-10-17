@@ -28,6 +28,7 @@
 
 4. Streamlit UI
 Build an interactive web application using Streamlit. 
+● pip install streamlit
 ● Have a clear title and description. 
 ● Accept relevant user inputs. 
 ● Load the serialized model. 
