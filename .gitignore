@@ -5,6 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
+da-12predictor
 
 # Distribution / packaging
 .Python
